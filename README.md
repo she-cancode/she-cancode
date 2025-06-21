@@ -1,14 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Terinique, a mouthful, I know.
 
+I'm a business-minded full-stack developer based in South Africa. I love solving business problems with code. From dashboards and e-commerce sites to automation tools and APIs, I'm always building or trying to anyway.
 
-**she-cancode/she-cancode** is a ✨ _special_ ✨ repository 
+🔧 Tech I Use:  
+- Frontend: React, HTML/CSS, Tailwind, JS/TS 
+- Backend: Node.js, Express, Mongo, Python, Spring and Java 
+- Tools: Git, Postman, Vercel, 
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on a relational database certification from freecodecamp
-- 🌱 I’m currently learning the ins and outs of Postgres, SQL, and bash.
-- 👯 I’m looking to collaborate on a web application in Spring.
-- 🤔 I’m looking for help with backend specifics to make our project a success.
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: HER/SHE
-- ⚡ Fun fact:
+📈 Currently learning: Advanced Devops and Security Aspects, REST API's and Messaging Queue Systems 
+
+📫 Reach me: via LinkedIn | briannaterikok@gmail.com
