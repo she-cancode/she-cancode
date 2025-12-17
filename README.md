@@ -1,4 +1,4 @@
-👋 Hi, I'm Terinique, a mouthful, I know.
+👋 Hi, I'm Terinique, a name that commands the full use of your tongue.
 
 I'm a business-minded full-stack developer based in South Africa. I love solving business problems with code. From dashboards and e-commerce sites to automation tools and APIs, I'm always building or trying to anyway.
 
